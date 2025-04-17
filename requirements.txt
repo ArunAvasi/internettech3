@@ -1,0 +1,2 @@
+# No external dependencies required for the basic server.py implementation
+# The server uses only Python standard library modules (socket, signal, sys, random) 
